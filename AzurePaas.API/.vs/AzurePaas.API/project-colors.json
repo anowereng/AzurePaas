@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3fc9902-8fc4-49dc-8ea9-0739c100d516": {
+      "ProjectGuid": "f3fc9902-8fc4-49dc-8ea9-0739c100d516",
+      "DisplayName": "AzurePaas.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
